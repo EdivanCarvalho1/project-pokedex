@@ -52,7 +52,7 @@ body {
         border-radius: 1rem;
     }
     body {
-        background-image: url('/assets/img/pokemon2.jpg');
+        background-image: url('assets/img/pokemon2.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
