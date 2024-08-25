@@ -34,7 +34,7 @@ Um projeto de Pokédex simples que exibe uma lista de Pokémon utilizando a API 
     cd Pokedex
 
 3. **Abra o Arquivo index.html em um Navegador:**
-- **`Você pode abrir o arquivo diretamente no seu navegador ou configurar um servidor local para servir o arquivo.
+- **`Você pode abrir o arquivo diretamente no seu navegador ou configurar um servidor local para servir o arquivo`**.
 
 ## Funcionalidade de Carregamento
 
